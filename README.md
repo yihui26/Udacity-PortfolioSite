@@ -1,0 +1,1 @@
+This is a Udacity final project  for the "Intro to HTML and CSS" class.
