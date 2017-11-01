@@ -9,6 +9,10 @@ hr{
     height: 2px;
 }
 
+img, embed, object, video {
+  max-width: 100%;
+}
+
 .text-muted {
     color:#bcbbbb;
 }
