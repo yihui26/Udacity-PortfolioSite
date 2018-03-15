@@ -40,6 +40,13 @@ img, embed, object, video {
   color : black;
 }
 
+.modal-date {
+  text-align : right;
+  font-style : italic;
+  line-height: 0.1;
+  font-size: 0.9em;
+}
+
 footer {
   background-color: #f1f1f1;
   margin-top: 20px;  
